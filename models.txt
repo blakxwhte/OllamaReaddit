@@ -1,0 +1,14 @@
+# models.txt
+# This file lists a generic set of real models that might be available via Ollama.
+# Each line represents a model name as it would appear when you run "ollama list".
+# You can edit this file to match the models installed on your system.
+
+llama2-7b:latest
+llama2-13b:latest
+vicuna-7b:latest
+vicuna-13b:latest
+falcon-7b:latest
+falcon-40b:latest
+mpt-7b:latest
+dolly-v2:latest
+
